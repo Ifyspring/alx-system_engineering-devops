@@ -1,1 +1,1 @@
-my script
+mr first scrpt
